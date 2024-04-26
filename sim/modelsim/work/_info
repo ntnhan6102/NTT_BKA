@@ -1,0 +1,162 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vBKA_parallel_prefix_network
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 F8LEmjgbYP=ia_6U0]YRC2
+Z3 I19dD<`UfIWJ558zSj@ACW3
+Z4 V:dM;o5>ckRX9ILaoj0=zP3
+Z5 !s105 brent_kung_adder_16bit_sv_unit
+S1
+Z6 dD:\HK232\DoAn2\brent_kung\sim\modelsim
+Z7 w1714155866
+Z8 8D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv
+Z9 FD:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv
+L0 44
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s108 1714156692.447000
+Z12 !s107 D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv|
+Z14 o-work work -sv -O0
+Z15 n@b@k@a_parallel_prefix_network
+!i10b 1
+!s85 0
+!s101 -O0
+vBKA_PostProcessing
+R1
+Z16 !s100 bKHZieF<O<HkUMJZ>LVeC3
+Z17 I@e_KGbWZgd^f50o>g8`zP0
+Z18 V<QFK4heIM6IZYEPclFVLP2
+R5
+S1
+R6
+R7
+R8
+R9
+Z19 L0 148
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z20 n@b@k@a_@post@processing
+!i10b 1
+!s85 0
+!s101 -O0
+vBKA_PreProcessing
+R1
+Z21 !s100 0kb=S6dY7bUDEel8k:M9@2
+Z22 I_EzNCD2jN?NU?28?Y3d0T1
+Z23 V<89zTEVc3hX;676HPYWjk1
+R5
+S1
+R6
+R7
+R8
+R9
+L0 33
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z24 n@b@k@a_@pre@processing
+!i10b 1
+!s85 0
+!s101 -O0
+vbrent_kung_adder_16bit
+R1
+Z25 !s100 SSHhjzDNI^1]Qd:HkZ[391
+Z26 I[<VU;B0jE8IY6=RDCe_;`3
+Z27 VmOz35cNizO1BJTOWCz]1A3
+R5
+S1
+R6
+R7
+R8
+R9
+L0 1
+R10
+r1
+31
+R11
+R12
+R13
+R14
+!i10b 1
+!s85 0
+!s101 -O0
+vbrent_kung_adder_16bit_tb
+R1
+!i10b 1
+!s100 agD9Z8W?b<VLH5hgm_Ozd1
+Ia^doTj>c=iVH`;T68i9kP2
+VbEDJBP764a@9@n2n;@NnJ1
+!s105 brent_kung_adder_16bit_tb_sv_unit
+S1
+R6
+w1714156690
+8D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv
+FD:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv
+L0 4
+R10
+r1
+!s85 0
+31
+!s108 1714156692.525000
+!s107 D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv|
+!s101 -O0
+R14
+vbrent_kung_adder_4bit
+R1
+Z28 !s100 Q7Y99z=I0jg@2fG5]5V:h2
+Z29 InTj3gK6ebYaWInc1HVW]<1
+Z30 Vg`8Y54VGQmjz=80SJ32^Y2
+Z31 !s105 brent_kung_adder_4bit_sv_unit
+S1
+R6
+Z32 w1714120801
+Z33 8D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_4bit.sv
+Z34 FD:/HK232/DoAn2/brent_kung/src/brent_kung_adder_4bit.sv
+L0 1
+R10
+r1
+31
+Z35 !s108 1714122759.967000
+Z36 !s107 D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_4bit.sv|
+Z37 !s90 -reportprogress|300|-work|work|-sv|D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_4bit.sv|
+R14
+!i10b 1
+!s85 0
+!s101 -O0
+vbrent_kung_adder_4bit_tb
+R1
+Z38 I[[HP:L][RIcMgl1_5ASke3
+Z39 V5;aZ]m]W_cY[k_ARj9a>z2
+Z40 !s105 brent_kung_adder_4bit_tb_sv_unit
+S1
+R6
+Z41 w1714122718
+Z42 8D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_4bit_tb.sv
+Z43 FD:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_4bit_tb.sv
+L0 4
+R10
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|-sv|D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_4bit_tb.sv|
+R14
+Z45 !s100 6Gj79N2C23zjm15ZOZo]E3
+Z46 !s108 1714122760.048000
+Z47 !s107 D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_4bit_tb.sv|
+!i10b 1
+!s85 0
+!s101 -O0

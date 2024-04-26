@@ -1,0 +1,18 @@
+D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv {1 {vlog -work work -sv D:/HK232/DoAn2/brent_kung/src/brent_kung_adder_16bit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brent_kung_adder_16bit
+-- Compiling module BKA_PreProcessing
+-- Compiling module BKA_parallel_prefix_network
+-- Compiling module BKA_PostProcessing
+
+Top level modules:
+	brent_kung_adder_16bit
+
+} {} {}} D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv {1 {vlog -work work -sv D:/HK232/DoAn2/brent_kung/tb/brent_kung_adder_16bit_tb.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brent_kung_adder_16bit_tb
+
+Top level modules:
+	brent_kung_adder_16bit_tb
+
+} {} {}}
